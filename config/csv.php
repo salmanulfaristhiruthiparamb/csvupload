@@ -1,6 +1,6 @@
 <?php
 return [
-    'email' => "tpsalmanulfaris1002@gmail.com",
+    'email' => "charush@accubits.com",
     'columns' => 3,
     'rows' => 1000,
     'column_names' => [
